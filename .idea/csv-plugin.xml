@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-02f6a111-18a0-42a4-80a5-aae58eab5155-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-4926cfff-036c-433a-9cd3-b778703756a6-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-58b7b576-e788-4415-91a3-f21a55d861b1-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-5a896948-9183-4b9f-b2b9-2453c16b7e0f-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-5b4aff46-283d-4f25-a475-2003d9ecd2c2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-94c32a0c-946c-46d7-89c9-0e23c6043ac1-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-ae77dcb3-5967-40bd-842b-72fe8313d00f-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-ca9a3878-0f2d-4265-8f26-009fe51a5918-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\result\avg_daily_return.csv\part-00000-f2a0f994-e7f9-4e90-a52a-f08723c33109-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\resources\stock_prices_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
